@@ -322,6 +322,6 @@ ax6.tick_params(axis='x', rotation=30, pad=8)
 
 fig.suptitle('AI-Driven Brand Trust & Affective Sentiment Analyzer\nComprehensive Analysis Dashboard', fontsize=18, fontweight='bold',y=0.97)
 
-plt.savefig(r'C:\Users\piyus\Documents\Codes\py\projects\AI-Driven Sentiment & Brand Trust Violation Analysis\trust_analysis_dashboard.png', dpi=300, bbox_inches='tight', pad_inches=0.5)
+plt.savefig('trust_analysis_dashboard.png', dpi=300, bbox_inches='tight', pad_inches=0.5)
 
 plt.show()
