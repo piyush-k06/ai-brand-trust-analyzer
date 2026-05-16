@@ -1,5 +1,5 @@
 # AI-Driven Brand Trust & Sentiment Analyzer
-
+![Dashboard Preview](trust_analysis_dashboard.png)
 ## Overview
 
 This project is a Python tool that analyzes customer complaints to find out why they are unhappy with a brand. It reads text reviews, calculates how negative or positive they are, figures out the main emotion behind them, and classifies them into specific business problems like technical failures or ethical issues.
